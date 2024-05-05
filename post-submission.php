@@ -1,12 +1,7 @@
-<html>
-<head>
-    <title>Kano's blog</title>
-    </head>
-<body>
-    <header>
-      <h1>Kano's Blog</h1>
-      <p>By Kano Yuan</p>
-      </header>
+<?php
+    include "header.php";
+?>
+
     <nav>
         <a href="index.php">Home</a> |
         <a href="post-submission.php">Submit</a> 
