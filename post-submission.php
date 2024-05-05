@@ -1,4 +1,4 @@
-<php>
+<html>
 <head>
     <title>Kano's blog</title>
     </head>
@@ -35,4 +35,4 @@
         <a href="kanoyjl@gmail.com">kanoyjl@gmail.com</a></p>
     </footer>  
 </body>
-</php>
+</html>
