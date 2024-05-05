@@ -1,4 +1,4 @@
-<html>
+<php>
 <head>
     <title>Kano's blog</title>
     </head>
@@ -8,8 +8,8 @@
       <p>By Kano Yuan</p>
       </header>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="post-submission.html">Submit</a> 
+        <a href="index.php">Home</a> |
+        <a href="post-submission.php">Submit</a> 
         </nav>
     <main>
         <h2>Submit Your Post</h2>
@@ -35,4 +35,4 @@
         <a href="kanoyjl@gmail.com">kanoyjl@gmail.com</a></p>
     </footer>  
 </body>
-</html>
+</php>

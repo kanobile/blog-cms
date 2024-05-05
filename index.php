@@ -8,15 +8,15 @@
       <p>By Kano Yuan</p>
       </header>
     <nav>
-        <a href="index.html">Home</a> |
-        <a href="post-submission.html">Submit</a> 
+        <a href="index.php">Home</a> |
+        <a href="post-submission.php">Submit</a> 
         </nav>
     <main>
         <h2>Highlights</h2>
         <p>Interesting content in my blog.</p>
         <ul>
             <li>
-                <a href="post.html">Posts</a>
+                <a href="post.php">Posts</a>
             </li>
             </ul>
         </main>
