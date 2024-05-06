@@ -1,7 +1,6 @@
 <?php
     include "header.php";
     include "nav.php";
-    include "footer.php";
 ?>
 
     <main>
@@ -13,6 +12,8 @@
             </li>
             </ul>
         </main>
-
+<?php
+    include "footer.php";
+?>
 </body>
 </html>

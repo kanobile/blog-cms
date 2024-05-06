@@ -1,7 +1,6 @@
 <?php
     include "header.php";
     include "nav.php";
-    include "footer.php";
 ?>
 
     <main>
@@ -23,6 +22,8 @@
             <input type="submit" value="Submit">
           </form>
         </main>
-
+<?php
+    include "footer.php";
+?>
 </body>
 </html>
