@@ -1,11 +1,9 @@
 <?php
     include "header.php";
+    include "nav.php";
+    include "footer.php";
 ?>
 
-    <nav>
-        <a href="index.php">Home</a> |
-        <a href="post-submission.php">Submit</a> 
-        </nav>
     <main>
         <h2>Submit Your Post</h2>
         <form action="/action_page.php">
@@ -25,9 +23,6 @@
             <input type="submit" value="Submit">
           </form>
         </main>
-    <footer>
-        <p>Author: Kano Yuan<br>
-        <a href="kanoyjl@gmail.com">kanoyjl@gmail.com</a></p>
-    </footer>  
+
 </body>
 </html>
